@@ -1,0 +1,4 @@
+Dark variant: #00204A
+Defalut     : #005792
+Secondary   : #00BBF0
+Light Bg    : #D9FAFF
